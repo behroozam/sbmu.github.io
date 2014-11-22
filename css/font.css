@@ -1,0 +1,20 @@
+@font-face {  
+font-family: 'xm yekan';  
+  
+src:url("fonts/XM Yekan.ttf") format("truetype") ,  
+  
+font-weight:normal;  
+}  
+
+.head-persian{
+    direction:rtl;
+font-family:'xm yekan',tahoma, Arial;  
+font-size:30px;
+font-weight:bold}
+  
+
+.body-persian {  
+    direction:rtl;
+font-family:'xm yekan',tahoma, Arial;  
+font-size:25px;  
+}  
